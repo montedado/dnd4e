@@ -1,0 +1,25 @@
+{
+    "name": "dnd4e",
+    "title": "Dungeons & Dragons 4e",
+    "description": "Um sistema dedicado para o cenário de Warcraft em RPG.",
+    "author": "Zaboo",
+    "version": 0.01,
+    "minimumCoreVersion": "0.6.6",
+    "compatibleCoreVersion": "0.6.6",
+    "escodules": [
+        "dnd4e.js"
+    ],
+    "styles": [
+        "dnd4e.css"
+    ],
+    "pack": [
+
+    ],
+    "languages": [
+
+    ],
+    "gridDistance": 1.5,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "wounds",
+    "iniciative": "1d6 + @speed",
+}
