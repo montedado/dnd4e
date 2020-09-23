@@ -18,8 +18,8 @@
     "languages": [
 
     ],
-    "gridDistance": 1.5,
-    "gridUnits": "m",
+    "gridDistance": 5,
+    "gridUnits": "ft",
     "primaryTokenAttribute": "wounds",
-    "iniciative": "1d20 + @iniciativa"
+    "initiative": "1d20 + @iniciativa"
 }
